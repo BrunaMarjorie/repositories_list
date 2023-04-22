@@ -1,15 +1,16 @@
 import React from "react";
-import { Routes, Route } from "react-router-dom";
-
-import Home from "./pages/Home";
-import Cart from "./pages/Cart";
+import { BrowserRouter, Routes, Route } from "react-router-dom";
+import Repository from "./pages/Repository";
+import Main from "./pages/Main";
 
 
 export default function AppRoutes() {
     return (
-        <Routes>
-            <Route exact path="/" element={<Home/>}/>
-            <Route path="/cart" element={<Cart/>}/>
-        </Routes>
+        <BrowserRouter>
+            <Routes>
+                <Route exact path="/" element={<Main/>}/>
+                <Route path="/repository/:repository" element={<Repository/>}/>
+            </Routes>
+        </BrowserRouter>
     )
 }
