@@ -14,12 +14,18 @@ export default createGlobalStyle`
     }
 
     body {
-        background: #F5F5F5;
+        background: #191920 url(${background}) no-repeat top center;
         -webkit-font-smoothing: antialiased !important;
     }
 
     body, input, button {
         font: 14px Roboto, sans-serif;
+    }
+
+    #app {
+        max-width: 1020px;
+        margin: 0 auto;
+        padding: 0 20px 50px;
     }
 
     button {

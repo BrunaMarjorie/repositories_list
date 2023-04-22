@@ -13,7 +13,7 @@ export default function Header() {
             <Logo src={logo} alt="Book Shop"/>
         </Link>
 
-        <Cart to="/cart">
+        <Cart>
             <div>
                 <strong>My Cart</strong>
                 <span>3 items</span>
