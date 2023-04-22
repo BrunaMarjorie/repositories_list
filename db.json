@@ -1,0 +1,72 @@
+{
+  "stock": [
+    {
+      "id": 1,
+      "amount": 3
+    },
+    {
+      "id": 2,
+      "amount": 2
+    },
+    {
+      "id": 3,
+      "amount": 0
+    },
+    {
+      "id": 4,
+      "amount": 6
+    },
+    {
+      "id": 5,
+      "amount": 1
+    },
+    {
+      "id": 6,
+      "amount": 2
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "title": "The Last Devil To Die: The Thursday Murder Club 4",
+      "author": "Richard Osman",
+      "price": 15,
+      "image": "https://m.media-amazon.com/images/I/51eF9eq4ZGL._SX322_BO1,204,203,200_.jpg"
+    },
+    {
+      "id": 2,
+      "title": "The Boy, The Mole, The Fox and The Horse",
+      "author": "Charlie Mackesy",
+      "price": 10,
+      "image": "https://m.media-amazon.com/images/I/4138h5XntrL._SX218_BO1,204,203,200_QL40_ML2_.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Killing Thatcher: The IRA, the Manhunt and the Long War on the Crown",
+      "author": "Rory Carroll",
+      "price": 22,
+      "image": "https://m.media-amazon.com/images/I/51DKnRcNeqL._SX323_BO1,204,203,200_.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Bored of Lunch: The Healthy Slow Cooker Book",
+      "author": "Nathan Anthony",
+      "price": 12,
+      "image": "https://m.media-amazon.com/images/I/41rUPLAPxmL._SX340_BO1,204,203,200_.jpg"
+    },
+    {
+      "id": 5,
+      "title": "You Vs The World: The Bear Grylls Guide to Never Giving Up",
+      "author": "Bear Grylls",
+      "price": 12,
+      "image": "https://m.media-amazon.com/images/I/51BMbqMMHPL._SX329_BO1,204,203,200_.jpg"
+    },
+    {
+      "id": 6,
+      "title": "The Thursday Murder Club: (The Thursday Murder Club 1)",
+      "author": "Richard Osman",
+      "price": 7,
+      "image": "https://m.media-amazon.com/images/I/71f5EShRDbS.SR160,240_BG243,243,243.jpg"
+    }
+  ]
+}
